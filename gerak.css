@@ -34,7 +34,10 @@ body {
   }
 }
 
-
+#audioContainer {
+  position: fixed;
+  bottom: 0;
+}
 
 @keyframes slidein {
   from {
@@ -132,9 +135,4 @@ li:hover {
   }
 
 
-}
-
-#audioContainer {
-  position: fixed;
-  height: 10px;
 }
