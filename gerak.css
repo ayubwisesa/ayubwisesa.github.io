@@ -34,6 +34,11 @@ body {
   }
 }
 
+#audioContainer {
+  position: fixed;
+  bottom: 0;
+}
+
 @keyframes slidein {
   from {
     background-position: top;
