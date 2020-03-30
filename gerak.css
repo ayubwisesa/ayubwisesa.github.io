@@ -136,6 +136,5 @@ li:hover {
 
 #audioContainer {
   position: fixed;
-  bottom: 10px;
-  height: 300px;
+  height: 10px;
 }
